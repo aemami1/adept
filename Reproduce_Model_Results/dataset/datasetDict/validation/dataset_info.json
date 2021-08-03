@@ -1,0 +1,49 @@
+{
+  "builder_name": null,
+  "citation": "",
+  "config_name": null,
+  "dataset_size": null,
+  "description": "",
+  "download_checksums": null,
+  "download_size": null,
+  "features": {
+    "idx": {
+      "_type": "Value",
+      "dtype": "int64",
+      "id": null
+    },
+    "label": {
+      "_type": "Value",
+      "dtype": "int64",
+      "id": null
+    },
+    "modifier": {
+      "_type": "Value",
+      "dtype": "string",
+      "id": null
+    },
+    "noun": {
+      "_type": "Value",
+      "dtype": "string",
+      "id": null
+    },
+    "sentence1": {
+      "_type": "Value",
+      "dtype": "string",
+      "id": null
+    },
+    "sentence2": {
+      "_type": "Value",
+      "dtype": "string",
+      "id": null
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "post_processed": null,
+  "post_processing_size": null,
+  "size_in_bytes": null,
+  "splits": null,
+  "supervised_keys": null,
+  "version": null
+}

@@ -1,0 +1,5 @@
+The data is distributed under the CC BY-SA 3.0 license, located here: https://creativecommons.org/licenses/by-sa/3.0/. It contains nouns and adjectives extracted from Wikipedia and an automatic parse of the Common Crawl corpus (the compiled corpus is downloadable here: https://commoncrawl.org/the-data/ and is distributed under their non-assignable, non-transferable, non-sublicensable, limited license in accordance with their ToU accessible here: https://commoncrawl.org/terms-of-use/full/).
+
+This work also includes data from ConceptNet 5, which was compiled by the Commonsense Computing Initiative. ConceptNet 5 is freely available under the Creative Commons Attribution-ShareAlike license (CC BY SA 4.0) from http://conceptnet.io. The included data was created by contributors to Commonsense Computing projects, contributors to Wikimedia projects, Games with a Purpose, Princeton University's WordNet, DBPedia, OpenCyc, and Umbel.
+
+Please see paper for more details on how the dataset was created.

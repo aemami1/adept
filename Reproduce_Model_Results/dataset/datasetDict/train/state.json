@@ -1,0 +1,26 @@
+{
+  "_data": null,
+  "_data_files": [
+    {
+      "filename": "dataset.arrow"
+    }
+  ],
+  "_fingerprint": "9e7b9ff1c61d37c0",
+  "_format_columns": null,
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_indexes": {},
+  "_indices": null,
+  "_indices_data_files": [
+    {
+      "filename": "indices.arrow"
+    }
+  ],
+  "_inplace_history": [
+    {
+      "transforms": []
+    }
+  ],
+  "_output_all_columns": false,
+  "_split": null
+}
